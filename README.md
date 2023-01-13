@@ -1,2 +1,5 @@
-# Projet Gestion des residant Maison de repos (Partie Front)
-Angular 14
+# Projet GESTION DES RESIDANTS  (Partie Front)
+#TECHNO : 
+  - Angular 14
+  - nG BOOTSTRAP
+ 
