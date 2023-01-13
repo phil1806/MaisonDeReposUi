@@ -1,5 +1,5 @@
 # Projet GESTION DES RESIDANTS  (Partie Front)
-#TECHNO : 
+TECHNO : 
   - Angular 14
   - nG BOOTSTRAP
  
